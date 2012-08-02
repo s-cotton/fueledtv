@@ -1,4 +1,4 @@
 fueledtv
 ========
 
-Fuel PHP based Mobile Media Information Browser
+Fuel PHP based Mobile Multimedia Information Browser
