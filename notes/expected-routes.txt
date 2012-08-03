@@ -14,6 +14,12 @@
 /account/destroy
 /account/activate
 
+
+
+/install
+/install/2
+/install/finished
+
 	   #                              ######                              
 	  # #   #####  #    # # #    #    #     #   ##    ####  ######  ####  
 	 #   #  #    # ##  ## # ##   #    #     #  #  #  #    # #      #      
@@ -26,8 +32,8 @@
 /admin/users
 /admin/users/list
 /admin/users/add
-/admin/users/edit/:user_id
-/admin/users/remove/:user_id
+/admin/users/:user_id/edit
+/admin/users/:user_id/remove
 
 	#                                               ######                              
 	#         ##   #    # #####  # #    #  ####     #     #   ##    ####  ######  ####  
