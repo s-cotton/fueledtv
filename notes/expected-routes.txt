@@ -1,0 +1,114 @@
+	   #                                                ######                              
+	  # #    ####   ####   ####  #    # #    # #####    #     #   ##    ####  ######  ####  
+	 #   #  #    # #    # #    # #    # ##   #   #      #     #  #  #  #    # #      #      
+	#     # #      #      #    # #    # # #  #   #      ######  #    # #      #####   ####  
+	####### #      #      #    # #    # #  # #   #      #       ###### #  ### #           # 
+	#     # #    # #    # #    # #    # #   ##   #      #       #    # #    # #      #    # 
+	#     #  ####   ####   ####   ####  #    #   #      #       #    #  ####  ######  ####  
+	                                                                                        	                                                                                   
+
+/account/login
+/account/logout
+/account/register
+/account/profile
+/account/destroy
+/account/activate
+
+	   #                              ######                              
+	  # #   #####  #    # # #    #    #     #   ##    ####  ######  ####  
+	 #   #  #    # ##  ## # ##   #    #     #  #  #  #    # #      #      
+	#     # #    # # ## # # # #  #    ######  #    # #      #####   ####  
+	####### #    # #    # # #  # #    #       ###### #  ### #           # 
+	#     # #    # #    # # #   ##    #       #    # #    # #      #    # 
+	#     # #####  #    # # #    #    #       #    #  ####  ######  ####  
+	                                                                      
+
+/admin/users
+/admin/users/list
+/admin/users/add
+/admin/users/edit/:user_id
+/admin/users/remove/:user_id
+
+	#                                               ######                              
+	#         ##   #    # #####  # #    #  ####     #     #   ##    ####  ######  ####  
+	#        #  #  ##   # #    # # ##   # #    #    #     #  #  #  #    # #      #      
+	#       #    # # #  # #    # # # #  # #         ######  #    # #      #####   ####  
+	#       ###### #  # # #    # # #  # # #  ###    #       ###### #  ### #           # 
+	#       #    # #   ## #    # # #   ## #    #    #       #    # #    # #      #    # 
+	####### #    # #    # #####  # #    #  ####     #       #    #  ####  ######  ####  
+	                                                                                    
+
+/splash
+/home/warning
+/home/splash
+/home/compilation
+
+	#######                                                         ######                              
+	   #    ###### #      ###### #    # #  ####  #  ####  #    #    #     #   ##    ####  ######  ####  
+	   #    #      #      #      #    # # #      # #    # ##   #    #     #  #  #  #    # #      #      
+	   #    #####  #      #####  #    # #  ####  # #    # # #  #    ######  #    # #      #####   ####  
+	   #    #      #      #      #    # #      # # #    # #  # #    #       ###### #  ### #           # 
+	   #    #      #      #       #  #  # #    # # #    # #   ##    #       #    # #    # #      #    # 
+	   #    ###### ###### ######   ##   #  ####  #  ####  #    #    #       #    #  ####  ######  ####  
+	                                                                                                    
+
+/tv
+/tv/:series
+/tv/:series/meta
+/tv/:series/actors
+/tv/:series/artwork
+/tv/:series/manage
+
+/tv/status
+/tv/status/:status
+
+/tv/genre
+/tv/genre/:genre
+
+/tv/manage
+
+
+	#######                    ######                              
+	#       # #      #    #    #     #   ##    ####  ######  ####  
+	#       # #      ##  ##    #     #  #  #  #    # #      #      
+	#####   # #      # ## #    ######  #    # #      #####   ####  
+	#       # #      #    #    #       ###### #  ### #           # 
+	#       # #      #    #    #       #    # #    # #      #    # 
+	#       # ###### #    #    #       #    #  ####  ######  ####  
+	                                                               
+
+/film
+/film/:name
+/film/:name/meta
+/film/:name/cast
+/film/:name/crew
+/film/:name/artwork
+/film/:name/manage
+/film/:name/trailer
+
+/film/status
+/film/status/:status
+
+/film/genre
+/film/genre/:genre
+
+/film/company
+/film/company/:company
+
+
+	#     #                           ######                              
+	##   ## #    #  ####  #  ####     #     #   ##    ####  ######  ####  
+	# # # # #    # #      # #    #    #     #  #  #  #    # #      #      
+	#  #  # #    #  ####  # #         ######  #    # #      #####   ####  
+	#     # #    #      # # #         #       ###### #  ### #           # 
+	#     # #    # #    # # #    #    #       #    # #    # #      #    # 
+	#     #  ####   ####  #  ####     #       #    #  ####  ######  ####  
+	                                                                      
+
+
+/music
+/music/artist
+/music/artist/:artist
+/music/artist/:artist/bio
+/music/artist/:artist/discography
+/music/artist/:artist/related
